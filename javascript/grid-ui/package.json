@@ -9,7 +9,7 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.14",
-    "@mui/material": "^5.14.14",
+    "@mui/material": "^5.15.6",
     "@novnc/novnc": "^1.4.0",
     "@types/jest": "^29.5.3",
     "@types/node": "^20.8.7",
